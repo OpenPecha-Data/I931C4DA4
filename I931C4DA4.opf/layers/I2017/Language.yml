@@ -1,0 +1,99 @@
+id: 9b70320ca7224ae6ac45fa180e1c2b5d
+annotation_type: Language
+revision: '00001'
+annotations:
+  e55f25e87b11457490bf5088e28b9d54:
+    span:
+      start: 0
+      end: 150
+    language: en
+  80ed7406fcfb48d0bfbe59989074f22a:
+    span:
+      start: 189
+      end: 639
+    language: en
+  e3b4ec22fe6f4995a2d0b4f0f201d74d:
+    span:
+      start: 34025
+      end: 34048
+    language: en
+  54c28d747f654631973be1daec0312e3:
+    span:
+      start: 206203
+      end: 206231
+    language: en
+  848c30e70e4a428587ee912473901ea9:
+    span:
+      start: 270393
+      end: 270435
+    language: en
+  8d645e9c607d410ca7c344a6ce7f6561:
+    span:
+      start: 329411
+      end: 329454
+    language: en
+  df24b90bbdda469882f062c8a7595eda:
+    span:
+      start: 441377
+      end: 441416
+    language: en
+  2713d60739ed492fbb336f4ccc434d93:
+    span:
+      start: 512133
+      end: 512154
+    language: en
+  170fe3f3fd0f4b1b9043f4711eb6ba24:
+    span:
+      start: 837619
+      end: 837647
+    language: en
+  87956ae511324edea6732e9b6d6dbf6a:
+    span:
+      start: 907474
+      end: 907515
+    language: en
+  e6e133893db64f6eb0370604276c7c8c:
+    span:
+      start: 948741
+      end: 948769
+    language: en
+  4e7132d54e9f4b728a614f4d97435160:
+    span:
+      start: 997036
+      end: 997096
+    language: en
+  d5bbd9ceb4754e3289a9dd686b6029f4:
+    span:
+      start: 1124426
+      end: 1124460
+    language: en
+  777a9016ffce4ea885a433fab2b2ea81:
+    span:
+      start: 1127153
+      end: 1127246
+    language: en
+  a9ad3d377ab94d93bfece617063311b8:
+    span:
+      start: 1248115
+      end: 1248281
+    language: en
+  56c6420f59a74a4eb1b87058d948afcc:
+    span:
+      start: 1248309
+      end: 1250641
+    language: en
+  c757ca6cb9864e9fb3b6c48d3c98e228:
+    span:
+      start: 1250680
+      end: 1250789
+    language: en
+  4b5f7c604d364e418a58a27388f7f7db:
+    span:
+      start: 1250886
+      end: 1250953
+    language: en
+  a3ff45c84d784a8fb5d60cfc0be40bae:
+    span:
+      start: 1250982
+      end: 1251521
+    language: en
